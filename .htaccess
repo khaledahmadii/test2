@@ -1,0 +1,7 @@
+DirectoryIndex index.html index.php
+Options -Indexes
+
+
+Options +FollowSymLinks
+RewriteEngine On
+
